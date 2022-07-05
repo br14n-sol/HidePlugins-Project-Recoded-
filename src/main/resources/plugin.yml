@@ -1,0 +1,6 @@
+name: HidePlugins_Project
+author: ComplexCode
+version: ${project.version}
+api-version: 1.13
+main: org.br14n_sol.HidePlugins_Project
+description: ${project.description}
